@@ -1,0 +1,6 @@
+framework module RyScheduleCollectionViewLayoutOC {
+  umbrella header "RyScheduleCollectionViewLayoutOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "RyScheduleCollectionViewLayoutOC",
+  "version": "0.1.0",
+  "summary": "单个封装ScheduleCollectionViewLayout的OC版本",
+  "description": "不同的头组\n包括有：\n- ScheduleCollectionViewLayout (class)\n- ScheduleCollectionViewLayoutDataSource (protocol)\n- ScheduleCollectionViewDataSource (protocol)\n- ScheduleCollectionViewLayoutAttributes(class)",
+  "homepage": "https://github.com/RisingSSR/RyScheduleCollectionViewLayoutOC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RisingSSR": "2769119954@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RisingSSR/RyScheduleCollectionViewLayoutOC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "RyScheduleCollectionViewLayoutOC/Classes/**/*",
+  "dependencies": {
+    "RyScheduleCourseOC": [
+
+    ]
+  }
+}

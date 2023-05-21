@@ -1,6 +1,9 @@
+source 'https://github.com/RisingSSR/RisingCyxbsSepc.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '11.0'
 
 target 'RyScheduleCollectionViewLayoutOC_Example' do
   pod 'RyScheduleCollectionViewLayoutOC', :path => '../'
