@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RyScheduleCollectionViewLayoutOC_Example' do
+  pod 'RyScheduleCollectionViewLayoutOC', :path => '../'
+
+  target 'RyScheduleCollectionViewLayoutOC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
