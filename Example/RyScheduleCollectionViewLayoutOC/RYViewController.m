@@ -7,6 +7,7 @@
 //
 
 #import "RYViewController.h"
+#import <RyScheduleCollectionViewLayoutOC/ScheduleCollectionViewLayout.h>
 
 @interface RYViewController ()
 

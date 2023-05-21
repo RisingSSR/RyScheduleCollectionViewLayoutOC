@@ -15,7 +15,7 @@
 
 #import "ScheduleCollectionViewLayoutSupport.h"
 #import "ScheduleCollectionViewDataSource.h"
-#import "NSIndexPath+Schedule.h"
+#import <RyScheduleCourseOC/NSIndexPath+Schedule.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
